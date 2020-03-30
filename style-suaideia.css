@@ -1,0 +1,144 @@
+body {
+    background: #ff5e84;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+.texto {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 250px;
+    top: 100px;
+
+}
+
+.texto2 {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 460px;
+    top: 65px;
+    border-radius: 5px;
+}
+
+.texto3 {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 250px;
+    top: 120px;
+}
+
+.texto4 {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 250px;
+    top: 155px;
+
+}    
+
+.texto5 {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 255px;
+    top: 340px;
+
+}
+
+.tituloideia1 {
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+    border: white;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.categoria1 {
+    position: relative;
+    left: 280px;
+    bottom: 50px;
+    border: white;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.linkdaimagem1 {
+    position: relative;
+    top: 40px;
+    border: white;
+    height: 30px;
+    width: 375px;
+    border-radius: 5px;
+    right: 95px;
+    
+}
+
+.linkdaideia1 {
+    position: relative;
+    top: 130px;
+    border: white;
+    height: 30px;
+    width: 375px;
+    border-radius: 5px;
+    right: 125px;
+}
+
+.textoarea {
+    position: relative;
+    left: 250px;
+    top: 80px;
+}
+
+.ideiaVoltar {
+    background: #ff7395;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    width: 110px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    margin-left: 340px;
+    top: 100px;
+    right: 90px;
+    cursor: pointer;
+}
+
+.ideiaSalvar {
+    background: white;
+    color: #ff5e84;
+    font-size: 13px;
+    font-weight: bold;
+    width: 110px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    margin-left: 340px;
+    top: 100px;
+    right: 275px;
+    cursor: pointer;
+}
+
+.titulocabeca {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    bottom: 500px;
+    left: 335px;
+
+}
